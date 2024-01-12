@@ -9,8 +9,10 @@ Screenshot - It contains the Screenshot of the Tasks done.
 
 
 Spring Dependencies Used:
-
-*Web
-*DevTools
-*Lombook
-*MongoDB
+	-WEB
+	-LOMBOK
+  -MONGODB
+  -DEVTOOLS
+ 
+	 
+		
