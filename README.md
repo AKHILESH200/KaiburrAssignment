@@ -53,10 +53,10 @@ ScreenShots--Task1:
 -  ![ScreenShots of task1](https://github.com/AKHILESH200/KaiburrAssignment/blob/main/Screenshots/Task1/GetTaskByIdWithId.PNG)
 
 -  GetTaskByName:
--  ![ScreenShots of task1](https://github.com/AKHILESH200/KaiburrAssignment/blob/main/Screenshots/Task1/GetTastByName.PNG)
+-  ![ScreenShots of task1](https://github.com/AKHILESH200/KaiburrAssignment/blob/main/Screenshots/Task1/GetTaskByName.PNG)
 
 -  GetTop10TasksByAssignee:
--  ![ScreenShots of task1](https://github.com/AKHILESH200/KaiburrAssignment/blob/main/Screenshots/Task1/GrtTop10TasksByAssignee.PNG)
+-  ![ScreenShots of task1](https://github.com/AKHILESH200/KaiburrAssignment/blob/main/Screenshots/Task1/GetTop10TasksByAssignee.PNG)
 
 -  GetTop10TasksByAssigneeProof:
 -  ![ScreenShots of task1](https://github.com/AKHILESH200/KaiburrAssignment/blob/main/Screenshots/Task1/GetTop10TasksByAssigneeProof.PNG)
