@@ -1,23 +1,23 @@
-# Kaiburr-Assignment
+### Kaiburr-Assignment
 
-Files:
-Screenshot - It contains the Screenshot of the Tasks done.
-
-
+## Files:
+# Screenshot - It contains the Screenshot of the Tasks done.
 
 
 
 
-Spring Dependencies Used
+
+
+# Spring Dependencies Used
    - SpringWeb
    - Lombok
    - MongoDb
    - DevTools
 
 
-Task-1:
+# Task-1:
 
-I have created the project using Spring Framework and for the backend mongoDB is used. The endpoints for the project are as follows:
+# I have created the project using Spring Framework and for the backend mongoDB is used. The endpoints for the project are as follows:
    - tasks/CreateTask (Add task details to the database)
    - tasks/GetTaskById (Fetch all the tasks available in the database)
    - tasks/GetTaskById/Id (Fetches the tasks available based on Id from the database)
@@ -25,7 +25,7 @@ I have created the project using Spring Framework and for the backend mongoDB is
    - tasks/GetTop10TasksByAsignee (Fetches the top 10 tasks sorted in ascending order by StartTime based on Assignee)
    - tasks/DeleteTaskById (Deletes the task from the database based on Id)
 
-The Restfull API's which are called when tested using postman. And these are:
+# The Restfull API's which are called when tested using postman. And these are:
   - tasks/CreateTask
   - tasks/GetTaskById
   - tasks/GetTaskById/Id
@@ -33,7 +33,7 @@ The Restfull API's which are called when tested using postman. And these are:
   - tasks/GetTop10TasksByAsignee
   - tasks/DeleteTaskById
 
-Steps To Run Task-1:
+# Steps To Run Task-1:
  - Install IDE of any choice (preferably STS(Spring Tool Suite) which runs on eclipse IDE or IDE of your choice with java installed in it)
  - Install MongoDb Compass locally or use online version your wish
  - Download postman application 
@@ -50,7 +50,7 @@ Steps To Run Task-1:
  - go to the main file and select run as SpringBoot to fire up the server
  - Open the postman and check the endpoints 
 
-ScreenShots--Task1:
+## ScreenShots--Task1:
 - CreateTask**
 - ![ScreenShots of task1](https://github.com/AKHILESH200/KaiburrAssignment/blob/main/Screenshots/Task1/CreateTask.PNG)
 
@@ -81,7 +81,7 @@ ScreenShots--Task1:
 
 
 
-FOR Task-5 The screenShots are big as it is a ipynb file we can directly open up in the editor to view***
+### FOR Task-5 The screenShots are big as it is a ipynb file we can directly open up in the editor to view***
 
 
  
