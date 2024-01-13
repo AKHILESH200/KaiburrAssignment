@@ -32,6 +32,10 @@ The Restfull API's which are called when tested using postman. And these are:
   - tasks/GetTaskByName
   - tasks/GetTop10TasksByAsignee
   - tasks/DeleteTaskById
+
+ScreenShots--Task1:
+
+ ![ScreenShots of task1](https://github.com/AKHILESH200/KaiburrAssignment/Screenshots
  
 	 
 		
