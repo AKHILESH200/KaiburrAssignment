@@ -33,6 +33,23 @@ The Restfull API's which are called when tested using postman. And these are:
   - tasks/GetTop10TasksByAsignee
   - tasks/DeleteTaskById
 
+Steps To Run Task-1:
+ - Install IDE of any choice (preferably STS(Spring Tool Suite) which runs on eclipse IDE or IDE of your choice with java installed in it)
+ - Install MongoDb Compass locally or use online version your wish
+ - Download postman application 
+ - Download the project or clone it in your local directory
+ - Open the IDE and import the project zip
+ - open application.services and add the below lines:
+    - spring.data.mongodb.host=localhost
+    - spring.data.mongodb.port=27017
+    - spring.data.mongodb.database=Task
+
+- open MongoDb and create a Database with name as Task and collection as task
+
+
+ - go to the main file and select run as SpringBoot to fire up the server
+ - Open the postman and check the endpoints 
+
 ScreenShots--Task1:
 - CreateTask**
 - ![ScreenShots of task1](https://github.com/AKHILESH200/KaiburrAssignment/blob/main/Screenshots/Task1/CreateTask.PNG)
