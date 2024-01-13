@@ -34,8 +34,34 @@ The Restfull API's which are called when tested using postman. And these are:
   - tasks/DeleteTaskById
 
 ScreenShots--Task1:
+- CreateTask**
+- ![ScreenShots of task1](https://github.com/AKHILESH200/KaiburrAssignment/blob/main/Screenshots/Task1/CreateTask.PNG)
 
- ![ScreenShots of task1](https://github.com/AKHILESH200/KaiburrAssignment/Screenshots
+- CreateTaskProofMongo:
+- ![ScreenShots of task1](https://github.com/AKHILESH200/KaiburrAssignment/blob/main/Screenshots/Task1/CreateTaskProofMongo.PNG)
+
+- DeleteTaskById:
+-![ScreenShots of task1](https://github.com/AKHILESH200/KaiburrAssignment/blob/main/Screenshots/Task1/DeleteTaskById.PNG)
+
+- DeleteTaskByIdProof:
+- ![ScreenShots of task1](https://github.com/AKHILESH200/KaiburrAssignment/blob/main/Screenshots/Task1/DeleteTaskByIdProofMongo.PNG)
+
+-  GetTaskById:
+-  ![ScreenShots of task1](https://github.com/AKHILESH200/KaiburrAssignment/blob/main/Screenshots/Task1/GetTaskById.PNG)
+
+-  GetTaskById/Id:
+-  ![ScreenShots of task1](https://github.com/AKHILESH200/KaiburrAssignment/blob/main/Screenshots/Task1/GetTaskByIdWithId.PNG)
+
+-  GetTaskByName:
+-  ![ScreenShots of task1](https://github.com/AKHILESH200/KaiburrAssignment/blob/main/Screenshots/Task1/GetTastByName.PNG)
+
+-  GetTop10TasksByAssignee:
+-  ![ScreenShots of task1](https://github.com/AKHILESH200/KaiburrAssignment/blob/main/Screenshots/Task1/GrtTop10TasksByAssignee.PNG)
+
+-  GetTop10TasksByAssigneeProof:
+-  ![ScreenShots of task1](https://github.com/AKHILESH200/KaiburrAssignment/blob/main/Screenshots/Task1/GetTop10TasksByAssigneeProof.PNG)
+
+
  
 	 
 		
